@@ -1,4 +1,4 @@
-![visitors](https://visitor-badge.glitch.me/badge?page_id=Aamin887&left_color=cyan&right_color=grey)       
+![visitors](https://visitor-badge.glitch.me/badge?page_id=aamin887&left_color=cyan&right_color=grey)       
 # About Me
 Hi there! My name is **Amin Alhassan** and I am a beginner full stack developer. I recently graduated from ![Colchester Institute](https://www.colchester.ac.uk/) with a diploma in computing.
 I am passionate about using technology to solve problems and create positive change. I have always been fascinated by the power of code to bring ideas to life, and I am excited to start my career as a full stack developer.
