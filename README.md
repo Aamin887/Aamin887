@@ -1,4 +1,4 @@
-![visitors](https://visitor-badge.glitch.me/badge?page_id=amin3301&left_color=cyan&right_color=grey)       
+![visitors](https://visitor-badge.glitch.me/badge?page_id=aamin887&left_color=cyan&right_color=grey)       
 # About Me
 Hi there! My name is **Amin Alhassan** and I am a beginner full stack developer. I recently graduated from ![Colchester Institute](https://www.colchester.ac.uk/) with a diploma in computing.
 I am passionate about using technology to solve problems and create positive change. I have always been fascinated by the power of code to bring ideas to life, and I am excited to start my career as a full stack developer.
@@ -21,9 +21,9 @@ Thank you for visiting my GitHub profile! If you have any questions or comments 
 I am always looking to learn and grow as a developer, and I welcome any feedback or collaboration on my projects. I hope to connect with other developers in the community and make a positive impact through my work.
 
 ### Stats  
-  ![Amin's GitHub stats](https://github-readme-stats.vercel.app/api?username=amin3301&hide=contribs,prs&count_private=true&show_icons=true&theme=onedark&custom_title=My_Stats)  
+  ![Amin's GitHub stats](https://github-readme-stats.vercel.app/api?username=aamin887&hide=contribs,prs&count_private=true&show_icons=true&theme=onedark&custom_title=My_Stats)  
  ### Top Language: Overview
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amin3301&layout=compact)](https://github.com/amin3301/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aamin887&layout=compact)](https://github.com/aamin887/github-readme-stats)
 <!---
 amin3301/amin3301 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
