@@ -39,4 +39,4 @@ Description of Project 3.
 
 Thanks for stopping by!
 
-![Your GitHub Stats](https://github.com/Aamin887_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=aamin887_icons=true&theme=radical)
