@@ -39,4 +39,12 @@ Description of Project 3.
 
 Thanks for stopping by!
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=aamin887_icons=true&theme=radical)
+### Stats  
+  ![Amin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aamin887&hide=contribs,prs&count_private=true&show_icons=true&theme=onedark&custom_title=My_Stats)  
+  
+ ### Top Language: Overview
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aamin887&layout=compact)](https://github.com/Aamin887/github-readme-stats)
+<!---
+amin3301/amin3301 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
